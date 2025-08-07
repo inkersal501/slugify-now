@@ -1,0 +1,10 @@
+{
+  "name": "slugify-now",
+  "version": "1.0.0",
+  "description": "Simple, fast slugify utility for clean URL-safe strings.",
+  "main": "index.js",
+  "type": "module",
+  "author": "Inkersal Mahendran",
+  "license": "MIT",
+  "keywords": ["slugify", "url", "clean", "text", "string"]
+}
