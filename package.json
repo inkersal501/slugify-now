@@ -1,10 +1,15 @@
 {
   "name": "slugify-now",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Simple, fast slugify utility for clean URL-safe strings.",
   "main": "index.js",
   "type": "module",
   "author": "Inkersal Mahendran",
   "license": "MIT",
-  "keywords": ["slugify", "url", "clean", "text", "string"]
+  "keywords": ["slugify", "url", "clean", "text", "string"],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/inkersal501/slugify-now.git"
+  }, 
+  "homepage": "https://github.com/inkersal501/slugify-now#readme"
 }
